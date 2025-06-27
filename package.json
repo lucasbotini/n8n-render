@@ -1,0 +1,14 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "description": "Render-ready n8n instance",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.45.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
